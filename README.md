@@ -15,3 +15,4 @@ These instructions will get you a copy of the project up and running on your loc
 #### Commands in windows
    * npm install
    * npm install express firebase-admin nodemon
+   * npm i dotenv
