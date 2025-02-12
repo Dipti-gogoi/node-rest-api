@@ -1,4 +1,4 @@
- A simple REST API using Node.js with Express and Cloud Firestore 
+ # A simple REST API using Node.js with Express and Cloud Firestore 
 
 ### Overview
 This project is a simple REST API built using Node.js with Express for backend development. It provides endpoints for managing users, expenses, and income, using Firebase cloud firestore as the database.
@@ -30,14 +30,16 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/YourUsername/SimpleRESTAPI.git
-   cd Node
-   ```
+    ```bash
+    git clone https://github.com/Dipti-gogoi/node-rest-api.git
+     ```
 
 2. **Install dependencies:**
+   ```bash
    * npm install
    * npm install express firebase-admin nodemon
    * npm i dotenv
+    ```
 
 3. **Set up environment variables:**
    - Create a `.env` file in the root directory.
