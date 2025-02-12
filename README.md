@@ -75,11 +75,6 @@ The API will be accessible at `http://localhost:3000/`.
 - **PUT /income/:id** - Update an existing income by ID.
 - **DELETE /income/:id** - Delete an income by ID.
 
-## Technologies Used
-- **Backend:** Node.js, Express
-- **Database:** Firebase
-- **Authentication & Security:** Firebase Authentication (if applicable), dotenv for environment variables
-
 ## Workflow
 ### API Requests
 - The client sends HTTP requests to the Express backend.
