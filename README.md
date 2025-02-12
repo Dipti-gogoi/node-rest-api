@@ -41,7 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
    * npm i dotenv
     ```
 3. **Set up Firebase:**
-   Create a Firebase cloud firestore and download the.json file and named as firebase.json inside /.config folder.
+   - Create a Firebase cloud firestore and download the.json file and named as firebase.json inside /.config folder.
 
 4. **Set up environment variables:**
    - Create a `.env` file in the root directory.
