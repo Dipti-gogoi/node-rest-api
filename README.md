@@ -50,7 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
 5. **Start the development server:**
    npm nodemon index.js
 
-The API will be accessible at `http://localhost:3000/`.
+     The API will be accessible at `http://localhost:3000/`.
 
 6. How to Use Thunder Client:
 
