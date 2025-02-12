@@ -49,7 +49,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 5. **Start the development server:**
    ```bash
-   npm nodemon index.js
+   nodemon index.js or npx nodemon index.js
    The API will be accessible at `http://localhost:3000/`
    ```
 
