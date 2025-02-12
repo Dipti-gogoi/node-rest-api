@@ -52,10 +52,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 The API will be accessible at `http://localhost:3000/`.
 
-6. How to Use Thunder Client for testing API
-Install the extension in VS code, click the Thunder Client icon on the Action Bar.
-From the sidebar click New Request button to test API
-Video: youtube.com/watch?v=NKZ0ahNbmak
+6. How to Use Thunder Client:
+
+- Install the extension, click the Thunder Client icon on the Action Bar.
+- From the sidebar click `New Request` button to test API
+- Video: [youtube.com/watch?v=NKZ0ahNbmak](https://youtu.be/NKZ0ahNbmak?t=3)
 ![thunderclient](https://github.com/user-attachments/assets/395dda9a-f728-4c10-a012-85bd1d7dbdc3)
 
 
