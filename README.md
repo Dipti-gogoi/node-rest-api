@@ -57,6 +57,7 @@ The API will be accessible at `http://localhost:3000/`.
 - Install the extension, click the Thunder Client icon on the Action Bar.
 - From the sidebar click `New Request` button to test API
 - Video: [youtube.com/watch?v=NKZ0ahNbmak](https://youtu.be/NKZ0ahNbmak?t=3)
+  
 ![thunderclient](https://github.com/user-attachments/assets/395dda9a-f728-4c10-a012-85bd1d7dbdc3)
 
 
