@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
    * npm install express firebase-admin nodemon
    * npm i dotenv
     ```
-3. Set up Firebase:
+3. **Set up Firebase:
    Create a Firebase cloud firestore and download the.json file and named as firebase.json inside /.config folder.
 
 4. **Set up environment variables:**
@@ -53,7 +53,7 @@ These instructions will get you a copy of the project up and running on your loc
    The API will be accessible at `http://localhost:3000/`
    ```
 
-7. How to Use Thunder Client:
+7. **How to Use Thunder Client:
 
 - Install the extension, click the Thunder Client icon on the Action Bar.
 - From the sidebar click `New Request` button to test API
