@@ -1,6 +1,6 @@
  # A simple REST API using Node.js with Express and Cloud Firestore 
 
-### Overview
+## Overview
 This project is a simple REST API built using Node.js with Express for backend development. It provides endpoints for managing users, expenses, and income, using Firebase cloud firestore as the database.
 
 ## Features
@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
    * Nodemon
    * express
 
-#### Commands in windows
+### Commands in windows
    * npm install
    * npm install express firebase-admin nodemon
    * npm i dotenv
@@ -40,20 +40,22 @@ These instructions will get you a copy of the project up and running on your loc
    * npm install express firebase-admin nodemon
    * npm i dotenv
     ```
+3. Set up Firebase:
+   Create a Firebase cloud firestore and download the.json file and named as firebase.json inside /.config folder.
 
-3. **Set up environment variables:**
+4. **Set up environment variables:**
    - Create a `.env` file in the root directory.
    - Add Firebase credentials and other necessary configuration variables.
 
-4. **Start the development server:**
+5. **Start the development server:**
    npm nodemon index.js
 
 The API will be accessible at `http://localhost:3000/`.
 
 ## API Endpoints
 
-### General
-- **GET /** - Provides a brief description of the API and available endpoints.
+### Landing page/Home URL
+- Provides a brief description of the API and available endpoints.
 
 ### Users Endpoints
 - **GET /users** - Retrieve all users.
