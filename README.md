@@ -60,7 +60,8 @@ These instructions will get you a copy of the project up and running on your loc
 - From the sidebar click `New Request` button to test API
 - Video: [youtube.com/watch?v=NKZ0ahNbmak](https://youtu.be/NKZ0ahNbmak?t=3)
   
-![thunderclient](https://github.com/user-attachments/assets/395dda9a-f728-4c10-a012-85bd1d7dbdc3)
+![git](https://github.com/user-attachments/assets/357347a9-55d6-48c4-90d2-f37a34c9d979)
+
 
 
 ## API Endpoints
