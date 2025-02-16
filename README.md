@@ -8,7 +8,7 @@ This project is a simple REST API built using Node.js with Express for backend d
 - **Backend:** Node.js with Express, providing a RESTful API for managing users, expenses, and income.
 - **Database:** Firebase cloud firestore.
 - **Secure Configuration:** Environment variables managed using `.env` for sensitive information.
-- **Organized File Structure:** Modular architecture with `routes/` and `config/` directories.
+- **Organized File Structure:** Modular architecture with `routes/`,`config/`, `public` and `middleware` directories.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -49,6 +49,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 5. **Start the development server:**
    ```bash
+   cd Node
    nodemon index.js or npx nodemon index.js
    The API will be accessible at `http://localhost:3000/`
    ```
